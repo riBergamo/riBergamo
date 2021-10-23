@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```java
 public class RiBergamo{
   String nome = "Riane Bergamo";
-  String areaDeConhecimento = "Desenvolvimento Web"
+  String areaDeConhecimento = "Desenvolvimento Web";
   
   String conhecimentos[] = {"Java","HTML", "CSS", "Javascript"};
 }
