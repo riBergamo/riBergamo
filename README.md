@@ -11,7 +11,7 @@ public class RiBergamo{
   String nome = "Riane Bergamo";
   String areaDeConhecimento = "Desenvolvimento Web";
   
-  String conhecimentos[] = {"Java","HTML", "CSS", "Javascript"};
+  String conhecimentos[] = {"Java", "HTML", "CSS", "Javascript"};
 }
 
 ```
