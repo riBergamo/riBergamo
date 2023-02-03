@@ -1,22 +1,22 @@
-### Oie devs 👋
+### Hi devs 👋
 
-Gosto de criar e estudar softwares, e compartilhar com outras pessoas meus novos aprendizados.
+I enjoy creating and studying software, and I am here to share with others my new projects
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> more about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
 public class RiBergamo{
-  String nome = "Riane Bergamo";
-  String areaDeConhecimento = "Desenvolvimento Web";
+  String name = "Riane Bergamo";
+  String areaOfStudy = "Dev FullStack";
   
-  String conhecimentos[] = {"Java", "HTML", "CSS", "Javascript"};
+  String skills[] = {"Java", "Spring Boot", "HTML", "CSS", "JavaScript", "NestJs", "PostgreSQL", "MySQL"};
 }
 
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -26,7 +26,7 @@ public class RiBergamo{
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riBergamo&theme=dracula&hide_langs_below=1" />
@@ -39,6 +39,6 @@ public class RiBergamo{
 [linkedin]: https://www.linkedin.com/in/riane-bergamo-2a920b223/
 <br>
 
-#### Rede Sociais!
+#### Social Networks!
 
 👔 [Linkedin][linkedin]
