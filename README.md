@@ -1,6 +1,6 @@
 ### Hi devs 👋
 
-I enjoy creating and studying software, and I am here to share with others my new projects
+I'm 20 years old and I started studying programming a while ago. Currently I'm studying more about microservices and back-end related but in the future I want to study more front-end as well to become a fullstack developer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> more about me
 
@@ -11,7 +11,7 @@ public class RiBergamo{
   String name = "Riane Bergamo";
   String areaOfStudy = "Dev FullStack";
   
-  String skills[] = {"Java", "Spring Boot", "HTML", "CSS", "JavaScript", "NestJs", "PostgreSQL", "MySQL"};
+  String skills[] = {"Java", "Spring Boot", "HTML", "CSS", "JavaScript", "NestJs", "PostgreSQL", "MySQL", "Git e GitHub"};
 }
 
 ```
