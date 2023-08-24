@@ -7,7 +7,7 @@ I'm 20 years old and I started studying programming a while ago. Currently I'm s
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
-public class RiBergamo{
+public class RiBergamo {
   String name = "Riane Bergamo";
   String areaOfStudy = "Dev FullStack";
   
