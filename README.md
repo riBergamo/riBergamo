@@ -11,8 +11,11 @@ public class RiBergamo {
   String name = "Riane Bergamo";
   String areaOfStudy = "Dev FullStack";
   
-  String skills[] = {"Java", "Spring Boot", "HTML", "CSS",
-"JavaScript", "NestJs", "PostgreSQL", "MySQL", "Git e GitHub"};
+  String skills[] = { "Java", "JavaScript",
+                      "NestJs", "Spring Boot",
+                      "HTML", "CSS",
+                      "PostgreSQL", "MySQL", "MongoDB", "SQLite",
+                      "Git e GitHub"};
 }
 
 ```
