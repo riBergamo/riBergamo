@@ -1,6 +1,6 @@
 ### Hi devs 👋
 
-I'm 20 years old and I started studying programming a while ago. Currently I'm studying more about microservices and back-end related but in the future I want to study more front-end as well to become a fullstack developer.
+I'm 21 years old and I started studying programming a while ago. Currently I'm studying more about microservices and back-end related but in the future I want to study more front-end as well to become a fullstack developer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> more about me
 
