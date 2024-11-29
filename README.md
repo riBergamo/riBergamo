@@ -1,48 +1,30 @@
-### Hi devs 👋
+### Oi, seja bem-vindo ao meu github!👋
 
-I'm 21 years old and I started studying programming a while ago. Currently I'm studying more about microservices and back-end related but in the future I want to study more front-end as well to become a fullstack developer.
+Eu me chamo **Riane Bergamo**, estudante de **Análise e Desenvolvimento de Sistemas**. <br>Desde que comecei minha jornada em programação, venho explorando diferentes áreas, estudando bastante backend e tentando me aprofundar em frontend. **Meu objetivo** é me tornar uma desenvolvedora fullstack.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> more about me
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+## <img width="20" alt="about" src="https://cdn-icons-png.flaticon.com/128/5234/5234463.png"> Mais sobre mim 
 
 ```java
-public class RiBergamo {
-  String name = "Riane Bergamo";
-  String areaOfStudy = "Dev FullStack";
-  
-  String skills[] = { "Java", "JavaScript",
-                      "NestJs", "Spring Boot",
-                      "HTML", "CSS",
-                      "PostgreSQL", "MySQL", "MongoDB", "SQLite",
-                      "Git e GitHub"};
+public class SobreMim {
+  String nomeCompleto = "Riane Bergamo";
+  int idade = 22;
+  String areaDeInteresse = "Desenvolvimento FullStack";
+  String linguagemFavorita = "Java";
 }
-
 ```
 
-## **Languages and Tools:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- <img width="19" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f468-1f4bb.svg"> Atualmente estou trabalhando em um projeto com Spring Boot, HTML e CSS. [github.com/riBergamo/sistema-loja]
+- 🏛️ Na faculdade estou estudando sobre Microsserviços & Containers
+- Como entrar em contato comigo:
+  <br> <img width="20" src="https://cdn-icons-png.flaticon.com/128/2460/2460797.png"> rrianebergamo@gmail.com
+  <br> <img width="19" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"> https://www.linkedin.com/in/riane-bergamo-2a920b223/
 
-
-## **GitHub Statistics**
+## **Estatísticas do GitHub**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riBergamo&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riBergamo&theme=tokyonight&hide_langs_below=1" />
 </a>
-
+<br><br>
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=riBergamo&show_icons=true&theme=dracula&line_height=27" alt="**Riane Bergamo** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riBergamo&show_icons=true&theme=tokyonight&line_height=27" alt="**Riane Bergamo** github stats"/>
 </a>
-
-[linkedin]: https://www.linkedin.com/in/riane-bergamo-2a920b223/
-<br>
-
-#### Social Networks!
-
-👔 [Linkedin][linkedin]
