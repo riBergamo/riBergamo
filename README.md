@@ -14,7 +14,6 @@ public class SobreMim {
 ```
 
 - <img width="19" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f468-1f4bb.svg"> Atualmente estou trabalhando em um projeto com Spring Boot, HTML e CSS. [github.com/riBergamo/sistema-loja]
-- 🏛️ Na faculdade estou estudando sobre Cyber Security
 - Como entrar em contato comigo:
   <br> <img width="20" src="https://cdn-icons-png.flaticon.com/128/2460/2460797.png"> rrianebergamo@gmail.com
   <br> <img width="19" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"> https://www.linkedin.com/in/riane-bergamo-2a920b223/
