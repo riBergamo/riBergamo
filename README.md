@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Riane Bergamo
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Formada em **Análise e Desenvolvimento de Sistemas**  
 ☁️ Pós-graduanda em **Projetos de Computação em Nuvem**  
 🚀 Focada em **Backend com Java & Spring Boot**  
 🎨 Explorando **Frontend** para me tornar uma desenvolvedora **FullStack**
 
----
+
 
 ## 👩‍💻 Sobre mim
 
@@ -31,7 +31,6 @@ public class RianeBergamo {
 }
 ```
 
----
 
 ## 🚀 Atualmente
 
@@ -39,7 +38,7 @@ public class RianeBergamo {
 - 🛠️ Desenvolvendo projetos com Java, Spring Boot, HTML, CSS e Banco de Dados
 - 🎯 Buscando minha primeira oportunidade na área de tecnologia
 
----
+
 
 ## 🧰 Tecnologias e Ferramentas
 
@@ -64,7 +63,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
----
+
 
 ## 📌 Projeto em destaque
 
@@ -75,7 +74,7 @@ Projeto desenvolvido utilizando Java, Spring Boot, HTML, CSS e Banco de Dados SQ
 🔗 Repositório:  
 [github.com/riBergamo/sistema-loja](https://github.com/riBergamo/sistema-loja)
 
----
+
 
 ## 📫 Contato
 
@@ -85,18 +84,18 @@ Projeto desenvolvido utilizando Java, Spring Boot, HTML, CSS e Banco de Dados SQ
 💼 **LinkedIn:**  
 [linkedin.com/in/riane-bergamo-2a920b223](https://www.linkedin.com/in/riane-bergamo-2a920b223/)
 
----
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riBergamo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riBergamo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riBergamo&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riBergamo&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
----
+
 
 ## ✨ Um pouco sobre mim
 
